@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.write("Hola amor, Te amo demaciado y ser tu novio es lo que me ha hecho la persona mas feliz")
+st.write("Hola amor, Te amo demaciado y ser tu novio que me ha hecho la persona mas feliz, espero que algun dia podamos vivir juntos y que tengamos un gatito")
