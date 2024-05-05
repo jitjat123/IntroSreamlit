@@ -5,7 +5,7 @@ import os
 
 st.title("Evaluador de propuestas de grado 🐔")
 
-openai.api_key = "sk-pr2j-Mj1FOGiKYtCEpC27ylMtT3BlbkFJPHI0wRM9c2cbSnJTK4l45"
+openai.api_key = API_KEY
 
 if 'openai_model' not in st.session_state:
   st.session_state['openai_model'] = 'gpt-3.5-turbo'
