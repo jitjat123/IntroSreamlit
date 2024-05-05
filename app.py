@@ -1,4 +1,4 @@
-pip install openai==0.28
+!pip install openai==0.28
 
 import streamlit as st
 import openai
